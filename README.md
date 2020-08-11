@@ -1,0 +1,1 @@
+Project-Documentation.pdf contains insrtuctions on how to run the project, including the CRUD operations you can perform
